@@ -22,10 +22,14 @@ Describe the main features, goals, and technologies used.
    cd 12210067
    ```
 2. **Install dependencies:**  
-   (Add instructions relevant to your project's language and framework.)
+    ```bash
+    npm install
+   ```
 
 3. **Run the application:**  
-   (Provide commands or scripts to start your application.)
+    ```bash
+    node server.js
+   ```
 
 ## Backend Testing Submission
 
